@@ -1,7 +1,7 @@
 
 # Employees Database Consult
 
-This is a simple project using Laravel that's make a consult to the Microsoft Employees Database Sample. You need to setup the database with the SQL_Setup files. 
+This is a simple project using Laravel that's make a consult to the Microsoft Employees Database Sample. You need to setup the database with the Database_Setup files. 
 
 
 
